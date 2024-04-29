@@ -15,6 +15,8 @@ This project was done on SQL server 2022
 
 Data Visualization
 ![image](https://github.com/Namitajha01/Pizza-Sales/assets/135155096/cf9bfa38-4c40-413d-add3-cad268124051)
+![image](https://github.com/Namitajha01/Pizza-Sales/assets/135155096/d911895f-7e39-4c13-894b-94428e730e2a)
+
 
 Data visualization was done in Microsoft Power BI
 
